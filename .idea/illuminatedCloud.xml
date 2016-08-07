@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IlluminatedCloudSettings">
+    <option name="connections">
+      <list>
+        <IlluminatedCloudConnection>
+          <option name="name" value="myTrueConnection" />
+          <option name="password" value="dfdcdfc3dfccdfcfdfc6dfd9dfc5df98df9bdf9adf9edf92df93" />
+          <option name="securityToken" value="dfd2dfccdff8dfcbdf99dfd0dfdcdfdddfefdfe3dfd9dfdfdfcddfe9dfc0df9adfc2dfd2dfebdff3dfe3df9edff3dfd8dffc" />
+          <option name="username" value="st.vooly@gmail.com" />
+        </IlluminatedCloudConnection>
+      </list>
+    </option>
+    <option name="selectedConnectionIndex" value="0" />
+  </component>
+</project>
